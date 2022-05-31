@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [Add live site URL here](https://hyunnies95.github.io/expenses-chart-component/)
+- Live Site URL: [Here](https://hyunnies95.github.io/expenses-chart-component/)
 
 ## My process
 
